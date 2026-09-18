@@ -6,7 +6,7 @@ public class Table {
         int table = 0;
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("kiski table chahiye : ");
+        System.out.print("Enter the digit : ");
         num = scanner.nextInt();
 
         for (int i = 1; i <= 10; i++) {
